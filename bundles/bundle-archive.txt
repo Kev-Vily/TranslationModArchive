@@ -1,0 +1,56 @@
+# String Lama Mod New Horizon - Kemungkinan Berguna
+
+sector.new-horizon-abandoned-outpost.name = Abandoned Outpost
+sector.new-horizon-abandoned-outpost.description = Landing...
+sector.new-horizon-initial-plane.name = Initial Plane
+sector.new-horizon-initial-plane.description = A flat plane on planet Midantha.
+#sector.new-horizon-main-path.name = Main Path
+#sector.new-horizon-main-path.description = The main path to hostile HQ. Use your limited resources to build units and strategy weapons to complete this sector.\n\n[accent]If you lose, the sector will reset. So don't worry.
+sector.new-horizon-hostile-research-station.name = Hostile Research Station
+sector.new-horizon-hostile-research-station.description = A heavily armored research station.\n\nIntelligence suggests that here are some experimental technologies --- [accent]Dark Energy[], plus its matched weapons.\n\nCapture the station to obtain these data.
+sector.new-horizon-ancient-shipyard.name = Ancient Shipyard
+sector.new-horizon-ancient-shipyard.description = A functioning ancient shipyard, mainly performing flagship maintaining tasks.
+
+#sector.new-horizon-delta-HQ.name = Delta HQ
+#sector.new-horizon-downpour.name = Downpour
+#sector.new-horizon-luminari-outpost.name = Luminari Outpost
+#sector.new-horizon-quantum-craters.name = Quantum Craters
+#sector.new-horizon-ruined-warehouse.name = Ruined Warehouse
+#sector.new-horizon-shattered-ravine.name = Shattered Ravine
+
+nh.cutscene.power-suppressors = [heal]Petunjuk[lightgray]: Berikut ini adalah beberapa penekan daya, yang menekan bagian aktivasi fasilitas pertahanan.\n[accent]Jangan dihancurkan sebelum Anda memiliki kekuatan militer yang cukup.
+nh.cutscene.end-communication = [lightgray]Komunikasi Berakhir.
+
+nh.cutscene.reinforcements-inbound = [reddust]Peringatan[lightgray]: Bala Bantuan Musuh Datang
+nh.cutscene.jumpgate-triggered = [reddust]Peringatan[lightgray]: Meningkatkan Level Energi.\nMendeteksi aktivasi [accent]Gerbang Lompatan[].
+nh.cutscene.incoming-raid = [reddust]Peringatan[lightgray]: Datangnya Serangan/Raid Terdeteksi!
+nh.cutscene.damage-taking-heavy = [lightgray]Kita mengalami kerusakan berat!
+
+nh.cutscene.new-horizon-hostile-research-station.dia-0 = [lightgray]Beberapa Inti Musuh Terdeteksi.
+nh.cutscene.new-horizon-hostile-research-station.dia-1 = [lightgray]Intelijen menunjukkan bahwa disini ada beberapa data eksperimen menarik yang dapat dimanfaatkan untuk penelitian lanjutan.
+nh.cutscene.new-horizon-hostile-research-station.dia-2 = [lightgray]Kuasai kembali Inti Musuh untuk memperoleh data ini.
+nh.cutscene.new-horizon-hostile-research-station.dia-3 = [accent]Perkiraan Koordinat[lightgray] akan diposting di HUD.
+
+nh.cutscene.new-horizon-hostile-research-station.dia-4 = [lightgray]Pertahanan Lemah Dikonfirmasi. Serang markas kecil ini lebih dulu.
+nh.cutscene.new-horizon-hostile-research-station.dia-5 = [lightgray]Mendeteksi menara stronghold, coba gunakan [accent]Peluncur Bom[] untuk menghancurkannya.
+nh.cutscene.new-horizon-hostile-research-station.dia-6 = [sky]Penghancuran Inti Musuh Terkonfirmasi.
+nh.cutscene.new-horizon-hostile-research-station.dia-7 = [lightgray]Ketika Anda semakin melumpuhkan pasukan musuh, mereka mungkin memanggil lebih banyak bala bantuan.
+nh.cutscene.new-horizon-ancient-shipyard.dia-0 = [lightgray]Di sinilah kita, markas produksi unit yang krusial.
+nh.cutscene.new-horizon-ancient-shipyard.dia-1 = [lightgray]Galangan kapal yang dapat membangun kapal induk.
+nh.cutscene.new-horizon-ancient-shipyard.dia-2 = [lightgray]Intelijen menunjukkan bahwa musuh di depan kita dilengkapi dengan instalasi pertahanan yang dijaga ketat.
+nh.cutscene.new-horizon-ancient-shipyard.dia-3 = [lightgray]Sebuah kapal induk kuno yang tidak bersenjata [ancient]Nucleoid[] ditambatkan di area ini.
+nh.cutscene.new-horizon-ancient-shipyard.dia-4 = [lightgray]Kapal tersebut belum online, memberikan kita peluang yang bagus untuk menguasainya.
+nh.cutscene.new-horizon-ancient-shipyard.dia-5 = [lightgray]Kuasai artileri kuno ini terlebih dahulu. Mereka akan berguna untuk melakukan operasi pengesampingan kontrol.
+nh.cutscene.new-horizon-ancient-shipyard.dia-6 = [accent]Peringatan: []Serang menara ini untuk menguasainya. Sediakan amunisi untuk menaranya setelah dikuasai.
+nh.cutscene.new-horizon-ancient-shipyard.dia-7 = [accent]Peringatan: []Memulai Proses Pengambilan Kendali Kapal
+nh.cutscene.new-horizon-ancient-shipyard.dia-8 = [lightgray]Siaga untuk pengambilan kontrol kendali...
+nh.cutscene.new-horizon-ancient-shipyard.dia-9 = [lightgray]Bagus sekali! Kita telah menguasai kapal perang ini..
+nh.cutscene.new-horizon-ancient-shipyard.dia-10 = [reddust]Waspada: []Beberapa sinyal kuat terdeteksi!
+nh.cutscene.new-horizon-ancient-shipyard.dia-11 = [lightgray]Kita tidak dapat menangani armada yang datang ini. Nucleoid belum dipersenjatai.
+nh.cutscene.new-horizon-ancient-shipyard.dia-12 = [accent]Memulai Muatan Hyperspace Darurat.
+nh.cutscene.new-horizon-ancient-shipyard.dia-13 = [accent]TUNGGU SATU MENIT
+nh.cutscene.new-horizon-ancient-shipyard.dia-14 = [accent]Memulai Lompatan Hyperspace
+nh.cutscene.mission-accomplished = [accent]Misi Tercapai
+nh.cutscene.standby-hyperspace = Siaga untuk lompatan hyperspace
+nh.cutscene.ui.capture-ratio = [lightgray]Kuasai: [accent]{0}[]%
+nh.cutscene.ui.waiting-capture = [lightgray]Menunggu untuk dikuasai: []{0}
